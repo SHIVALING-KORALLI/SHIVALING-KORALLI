@@ -74,7 +74,7 @@ Currently preparing to join **Bharat Electronics Limited (BEL)** as an **Apprent
 #### 🚗 Deep Learning-Powered Parking System with IoT
 > Real-time smart parking management using YOLOv11, MQTT, OCR, and LED-based IoT control  
 > 📌 Funded by Karnataka State Council for Science & Technology (KSCST)  
-> 📰 [Published in IJCRT](https://www.ijcrt.org/viewfull.php?&p_id=IJCRT123456)
+> 📰 [Published in IJCRT](https://www.ijcrt.org/viewfull.php?&p_id=IJCRT25A5594)
 
 #### 🔭 VLSI-Based Digital Design
 > Designed and verified digital circuits with Verilog/VHDL using industry-grade EDA tools
