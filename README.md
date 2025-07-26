@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Shivaling
 
-<!--
-**SHIVALING-KORALLI/SHIVALING-KORALLI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Machine Learning Engineer | Robotics Enthusiast | IoT Developer
 
-Here are some ideas to get you started:
+I love building intelligent systems that combine deep learning, edge AI, and real-world control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: [Your latest project]
+- 🌱 Learning: YOLO11n, MQTT, and edge hardware deployment
+- 💬 Ask me about: AI, Embedded Systems, or ML Pipelines
+- 📫 How to reach me: [your email] | [LinkedIn](https://linkedin.com/in/shivaling-koralli)
+
+---
+
+### 🛠️ Languages & Tools
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![NodeMCU](https://img.shields.io/badge/-NodeMCU-000000?style=flat-square&logo=arduino)
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaling-koralli&show_icons=true&theme=dark)
