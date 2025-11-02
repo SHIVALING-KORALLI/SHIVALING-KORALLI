@@ -1,5 +1,10 @@
-<h1 align="center">👋 Hi, I'm Shivaling Kallappa Koralli</h1>
-<h3 align="center">AI • IoT • Embedded Systems • Computer Vision • R&D Engineer</h3>
+<!-- PROFILE HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivaling+Kallappa+Koralli;AI+%7C+IoT+%7C+VLSI+%7C+Computer+Vision+Engineer;Researcher+%7C+Innovator+%7C+Problem+Solver" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">⚙️ M.Tech (VLSI Design) @ RV College of Engineering, Bengaluru</h3>
+<h4 align="center">Passionate about building intelligent, connected, and high-performance embedded systems.</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/shivaling-koralli-13a11b2003c" target="_blank">
@@ -15,100 +20,110 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-I’m an **Electronics & Communication Engineer** with hands-on experience across **AI, IoT, and embedded R&D systems** — passionate about transforming innovative concepts into working technology.
+I’m a **Master’s student in VLSI Design at RV College of Engineering (RVCE), Bengaluru**, specializing in **AI-driven embedded systems, FPGA design, and edge intelligence**.  
 
-Currently contributing as an **Apprentice Engineer at Bharat Electronics Limited (BEL)**, under the **Radar & Weapon Systems R&D Division**, where I work on FPGA-based digital board design, simulation (Vivado), and automation for defense instrumentation systems.
+Previously, I worked as an **Apprentice Engineer at Bharat Electronics Limited (BEL)** under the **Radar & Weapon Systems Division**, where I gained hands-on experience in **FPGA (Kintex Ultrascale)**, **MxFE transceivers**, and **digital TRC board verification**.
 
-My focus lies at the intersection of **hardware precision** and **AI intelligence** — enabling smarter, faster, and more reliable real-world systems.
-
----
-
-### 🚀 Quick Highlights
-
-- 🤖 **AI & Computer Vision:** YOLOv8/v11, OCR, TensorFlow, OpenCV  
-- 🌐 **IoT Systems:** ESP32, NodeMCU, MQTT, WebSocket, Cloud Dashboards  
-- ⚙️ **Embedded Design:** SPI, shift registers (74HC595), and automation tools  
-- 🧩 **VLSI Engineering:** RTL, Verilog/SystemVerilog, FPGA (Kintex Ultrascale), Vivado  
-- 🧾 **Research Publication:** *Smart Parking System Using AI + IoT* (IJCRT)  
-- 🏅 **KSCST Funded Project:** Top 48th Series Grant Recipient  
+I thrive at the **intersection of Artificial Intelligence, IoT, and hardware design**, translating complex problems into reliable, efficient, and scalable solutions.
 
 ---
 
-### 💼 Experience Snapshot
+## 🚀 Highlights
 
-**Apprentice Trainee – PDIC (Radar & Weapon Systems)**  
-*Bharat Electronics Limited (BEL), Bangalore*  
-> • Working on schematic design, verification, and testing of Digital TRC boards  
-> • Hands-on with FPGA (Xilinx Kintex Ultrascale), MxFE transceivers, SPI simulations  
-> • Developing instrumentation automation tools for radar/defense systems  
-
-**VLSI Design Engineer Intern – Rooman Technologies**  
-> • Designed RTL modules (comparators, counters, mux/demux) in Verilog/SystemVerilog  
-> • Built and debugged testbenches, simulated with Vivado  
-> • ESSCI Certified (NSQF Level 5, 780 Hours)
-
-**Hardware & Networking Intern – VTU Skill Academy**  
-> • Configured enterprise-grade networks (WDS/DHCP)  
-> • Built responsive web tools and managed cloud deployment (Cloudflare)
+- 🧩 **VLSI & FPGA:** Verilog / SystemVerilog, RTL design, Vivado simulation  
+- 🤖 **AI & Vision:** YOLOv11, OpenCV, TensorFlow – real-time object detection & OCR  
+- 🌐 **IoT Systems:** ESP32, NodeMCU, MQTT, Flask dashboards, WebSockets  
+- 🧠 **R&D Projects:** Smart city automation, radar board design, embedded AI  
+- 🧾 **Research Publication:** *Smart Parking System Using AI & IoT* – IJCRT  
+- 🏅 **KSCST Funded Project:** Selected under the 48th Series Government Grant  
 
 ---
 
-### 🧪 Key Projects
+## 🎓 Education
 
-#### 🚗 Deep Learning-Powered Smart Parking System (AI + IoT)
-> Real-time parking detection with YOLOv11, OCR, and IoT-driven LED control  
-> 📡 ESP32 + MQTT + Flask Web Dashboard  
-> 🏆 KSCST 48th Series Grant Recipient  
-> 📰 [Published in IJCRT](https://www.ijcrt.org/viewfull.php?&p_id=IJCRT25A5594)
+🎓 **M.Tech – VLSI Design**  
+*RV College of Engineering (RVCE), Bengaluru*  
+*2025 – Present*  
 
-#### 💡 FPGA-Based Digital Design & Verification
-> RTL implementation of arithmetic and sequential circuits using Vivado simulation  
-> Hands-on with Verilog/SystemVerilog and Kintex FPGA architecture  
-
-#### 🌍 Real-Time IoT Monitoring Dashboard
-> Developed a full-stack monitoring system using Flask + Socket.IO  
-> Enables live analytics and remote hardware management  
+🎓 **B.E. – Electronics & Communication Engineering**  
+*KLS Vishwanathrao Deshpande Institute of Technology, Haliyal*  
+*CGPA: 8.55*  
 
 ---
 
-### 🧰 Tech Stack
+## 🧪 Featured Projects
 
-**Languages:** Python, C, Verilog, SystemVerilog  
-**AI/ML:** TensorFlow, OpenCV, YOLOv8/v11  
-**Embedded/IoT:** ESP32, NodeMCU, SPI, MQTT  
-**VLSI:** Vivado, RTL, FPGA (Kintex)  
-**Web & Tools:** Flask, Socket.IO, Git, SQLAlchemy, Cloudflare  
+### 🚗 Deep Learning-Powered Smart Parking System (AI + IoT)
+> Real-time parking detection using YOLOv11, OCR, and IoT (ESP32 + MQTT).  
+> Built cloud-based dashboard for monitoring and control.  
+> 🏆 Funded by KSCST 48th Series | 📰 Published in IJCRT  
 
----
+### ⚙️ FPGA-Based Digital Design & Verification
+> Designed & simulated digital systems using Verilog/SystemVerilog on Xilinx Kintex Ultrascale FPGA.  
+> Focused on RTL design, timing optimization, and verification strategies.  
 
-### 🏆 Certifications
-
-- **VLSI Design Engineer** – Electronics Sector Skills Council of India (ESSCI), Govt. of India  
-- **VLSI Design Practical Training** – Rooman Technologies Pvt. Ltd.  
-- **Computer Hardware & Networking (A+)** – VTU Skill Academy  
-- **Life Skills 2.0** – Wadhwani Foundation  
+### 🌍 Real-Time IoT Analytics Dashboard
+> Flask + WebSocket-based control dashboard for hardware analytics & device management.  
+> Integrated with embedded sensors for real-time insights and visualizations.  
 
 ---
 
-### 📊 GitHub Insights
+## 🧰 Technical Stack
+
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| **Languages** | Python, C, Verilog, SystemVerilog |
+| **AI/ML** | TensorFlow, OpenCV, YOLOv8/v11 |
+| **Embedded/IoT** | ESP32, NodeMCU, SPI, MQTT |
+| **VLSI** | RTL Design, Vivado, FPGA (Kintex) |
+| **Web/Tools** | Flask, Socket.IO, Git, SQLAlchemy, Cloudflare |
+
+---
+
+## 🏆 Certifications
+
+- 🎓 **VLSI Design Engineer** – ESSCI, Govt. of India  
+- 🔧 **VLSI Design Practical Training** – Rooman Technologies Pvt. Ltd.  
+- 🧠 **Computer Hardware & Networking (A+)** – VTU Skill Academy  
+- 🧭 **Life Skills 2.0** – Wadhwani Foundation  
+
+---
+
+## 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVALING-KORALLI&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIVALING-KORALLI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SHIVALING-KORALLI&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SHIVALING-KORALLI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVALING-KORALLI&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVALING-KORALLI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+<!-- Private visitor counter (keep hidden for now) -->
+<!--
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHIVALING-KORALLI&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+-->
 
 ---
 
-### 📬 Let’s Connect
+## 🎯 My Philosophy
 
-- 📧 **Email:** [shivalingkoralli9@gmail.com](mailto:shivalingkoralli9@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/shivaling-koralli-13a11b2003c](https://linkedin.com/in/shivaling-koralli-13a11b2003c)  
-- 💻 **GitHub:** [github.com/SHIVALING-KORALLI](https://github.com/SHIVALING-KORALLI)  
+> “Innovation lives where code meets curiosity.”  
+> Building solutions that connect intelligence, hardware, and humanity.  
+
+---
+
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="mailto:shivalingkoralli9@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shivaling-koralli-13a11b2003c"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/SHIVALING-KORALLI"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
