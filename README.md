@@ -121,7 +121,7 @@ I thrive at the **intersection of Artificial Intelligence, IoT, and hardware des
 
 <p align="center">
   <a href="mailto:shivalingkoralli9@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shivaling-koralli-13a11b2003c"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/shvlng"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/SHIVALING-KORALLI"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" /></a>
 </p>
 
