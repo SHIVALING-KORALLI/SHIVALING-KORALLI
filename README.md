@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivaling+Kallappa+Koralli;AI+%7C+IoT+%7C+VLSI+%7C+Computer+Vision+Engineer;Researcher+%7C+Innovator+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivaling+Kallappa+Koralli;AI+%7C+VLSI+%7C+IoT+%7C+Computer+Vision+Engineer;Researcher+%7C+Innovator+%7C+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">⚙️ M.Tech (VLSI Design) @ RV College of Engineering, Bengaluru</h3>
