@@ -7,7 +7,7 @@
 <h4 align="center">Passionate about building intelligent, connected, and high-performance embedded systems.</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivaling-koralli-13a11b2003c" target="_blank">
+  <a href="https://linkedin.com/in/shvlng" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/SHIVALING-KORALLI" target="_blank">
